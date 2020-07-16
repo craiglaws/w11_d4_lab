@@ -12,7 +12,7 @@ public class DeckTest {
     @Before
     public void before(){
         deck = new Deck();
-        player1 = new Player();
+        player1 = new Player("Matthew");
     }
 
     @Test

@@ -13,8 +13,8 @@ public class GameTest {
     @Before
     public void before(){
         game = new Game();
-        player1 = new Player();
-        player2 = new Player();
+        player1 = new Player("Matthew");
+        player2 = new Player("Craig");
         game.addPlayer(player1);
         game.addPlayer(player2);
     }
