@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a61b023a-b01b-4264-b126-58e5df271356" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1elFnSsLWtKcm0TXpExUuxKSmCO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.GameTest">
+    <configuration name="DeckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Enums" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.dealRemovesCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Enums" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="dealRemovesCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.deckCanShuffle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Enums" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="deckCanShuffle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Enums" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Enums" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest" />
+        <item itemvalue="JUnit.DeckTest" />
+        <item itemvalue="JUnit.PlayerTest" />
+        <item itemvalue="JUnit.DeckTest.dealRemovesCard" />
+        <item itemvalue="JUnit.DeckTest.deckCanShuffle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a61b023a-b01b-4264-b126-58e5df271356" name="Default Changelist" comment="" />
+      <created>1594888438071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594888438071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="793" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1594896340574">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="793" y="220" key="#com.intellij.ide.util.MemberChooser/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594896340574" />
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom" timestamp="1594897960749">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594897960749" />
+    <state width="1358" height="245" key="GridCell.Tab.0.center" timestamp="1594897960747">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.center/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594897960747" />
+    <state width="1358" height="245" key="GridCell.Tab.0.left" timestamp="1594897960746">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.left/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594897960746" />
+    <state width="1358" height="245" key="GridCell.Tab.0.right" timestamp="1594897960748">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.right/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594897960748" />
+    <state width="1358" height="303" key="GridCell.Tab.1.bottom" timestamp="1594893491899">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="303" key="GridCell.Tab.1.bottom/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594893491899" />
+    <state width="1358" height="303" key="GridCell.Tab.1.center" timestamp="1594893491897">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="303" key="GridCell.Tab.1.center/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594893491897" />
+    <state width="1358" height="303" key="GridCell.Tab.1.left" timestamp="1594893491897">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="303" key="GridCell.Tab.1.left/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594893491897" />
+    <state width="1358" height="303" key="GridCell.Tab.1.right" timestamp="1594893491898">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="303" key="GridCell.Tab.1.right/0.23.1680.961/-1920.23.1920.1057@0.23.1680.961" timestamp="1594893491898" />
+  </component>
+</project>
